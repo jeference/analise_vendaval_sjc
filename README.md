@@ -16,7 +16,7 @@ Utilizando técnicas de vizualização de dados através de gráficos, mapas e a
 
 Foram análisados os seguintes fatores: 
 
-* Ventos (dados obtidos po sensores)
+* Ventos (dados obtidos por sensores)
 * Atmosfera (dados obtidos por radar)
 * Chuvas (dados obtidos pluviômetros)
 * Mobilidade (dados obtidos no OpenStreetMap)
